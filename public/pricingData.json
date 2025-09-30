@@ -17,6 +17,7 @@
     "id": 2,
     "name": "Standard",
     "price": "$49.99/month",
+    "popular": true,
     "description": "Ideal for regular gym-goers who want extra classes and perks.",
     "features": [
       "All Basic plan features",
