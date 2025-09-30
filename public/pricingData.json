@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 30,
+    "description": "Perfect for beginners who need access to essential facilities.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "1 free fitness assessment",
+      "Open during regular hours",
+      "Free parking",
+      "Access to basic cardio zone"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 50,
+    "description": "Ideal for regular gym-goers who want extra classes and perks.",
+    "features": [
+      "All Basic plan features",
+      "Unlimited group classes",
+      "Free Wi-Fi",
+      "1 guest pass per month",
+      "Access to yoga and spinning studios",
+      "Discount on personal training sessions"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 80,
+    "description": "Best for serious fitness enthusiasts who want full benefits.",
+    "features": [
+      "All Standard plan features",
+      "Personal trainer (2 sessions/month)",
+      "Priority booking for classes",
+      "Free protein shake after each session",
+      "Spa & sauna access",
+      "Private locker with towel service"
+    ]
+  }
+]
